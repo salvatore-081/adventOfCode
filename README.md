@@ -5,7 +5,7 @@
 # How to run
 My programming language of choice is [Go](https://go.dev/learn/).
 
-You can run any solutions by navigating in the dedicated folder and the executing the command: 
+You can run any solutions by navigating in the dedicated folder and then executing the command: 
 > go run main.go
 
 # Solutions
