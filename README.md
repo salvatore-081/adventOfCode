@@ -11,3 +11,4 @@ You can run any solutions by navigating in the dedicated folder and then executi
 # Solutions
 - [Day 1](./1)
 - [Day 2](./2)
+- [Day 3](./3)
