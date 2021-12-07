@@ -15,3 +15,4 @@ You can run any solutions by navigating in the dedicated folder and then executi
 - [Day 4](./4)
 - [Day 5](./5)
 - [Day 6](./6)
+- [Day 7](./7)
