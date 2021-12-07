@@ -7,3 +7,12 @@ My programming language of choice is [Go](https://go.dev/learn/).
 
 You can run any solutions by navigating in the dedicated folder and then executing the command: 
 > go run main.go
+
+# Solutions
+- [Day 1](./2021/1)
+- [Day 2](./2021/2)
+- [Day 3](./2021/3)
+- [Day 4](./2021/4)
+- [Day 5](./2021/5)
+- [Day 6](./2021/6)
+- [Day 7](./2021/7)
