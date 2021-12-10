@@ -18,3 +18,4 @@ You can run any solutions by navigating in the dedicated folder and then executi
 - [Day 7](./2021/7)
 - [Day 8](./2021/8)
 - [Day 9](./2021/9)
+- [Day 10](./2021/10)
